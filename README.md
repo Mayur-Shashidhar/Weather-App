@@ -18,6 +18,10 @@ A beautiful, glassmorphic React weather app with animated UI, favorites, geoloca
 
 ---
 
+## 🔗 Demo Link : https://weather-p6po8ru8d-mayurs-projects-3b81da7b.vercel.app/
+
+---
+
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
@@ -76,7 +80,5 @@ Visit [http://localhost:3000](http://localhost:3000) in your browser.
 - Glassmorphism and UI inspiration from Apple/iOS
 
 ---
-
-Demo Link : https://weather-p6po8ru8d-mayurs-projects-3b81da7b.vercel.app/
 
 Made with ❤️ by Shashidhar Mayur
