@@ -51,12 +51,8 @@ Visit [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## 🖼️ Screenshots
 
-<img width="1917" height="913" alt="image" src="https://github.com/user-attachments/assets/56cd4949-79cf-4f98-b290-937ce660837f" />
-<img width="536" height="910" alt="image" src="https://github.com/user-attachments/assets/7b620bc7-59f0-4ec5-8a02-393416c9b3ca" />
-<img width="538" height="627" alt="image" src="https://github.com/user-attachments/assets/8c530c10-d4d6-4f2c-8968-12b2d7558df7" />
-<img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/50aeb489-f886-42cf-9660-6718619fdd7c" />
-
-
+<img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/8146e465-2e35-44c6-a133-1b3bee11e367" />
+<img width="1918" height="911" alt="image" src="https://github.com/user-attachments/assets/d5c6d589-09d5-4fb1-90aa-cb4dda07c228" />
 
 ---
 
