@@ -50,7 +50,13 @@ Visit [http://localhost:3000](http://localhost:3000) in your browser.
 ---
 
 ## 🖼️ Screenshots
-> _Add screenshots or a GIF of the app here for best effect!_
+
+<img width="1917" height="913" alt="image" src="https://github.com/user-attachments/assets/56cd4949-79cf-4f98-b290-937ce660837f" />
+<img width="536" height="910" alt="image" src="https://github.com/user-attachments/assets/7b620bc7-59f0-4ec5-8a02-393416c9b3ca" />
+<img width="538" height="627" alt="image" src="https://github.com/user-attachments/assets/8c530c10-d4d6-4f2c-8968-12b2d7558df7" />
+<img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/50aeb489-f886-42cf-9660-6718619fdd7c" />
+
+
 
 ---
 
@@ -74,5 +80,7 @@ Visit [http://localhost:3000](http://localhost:3000) in your browser.
 - Glassmorphism and UI inspiration from Apple/iOS
 
 ---
+
+Demo Link : https://weather-p6po8ru8d-mayurs-projects-3b81da7b.vercel.app/
 
 Made with ❤️ by Shashidhar Mayur
